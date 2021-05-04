@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vbajeneza
-- 👀 I’m interested in AI and Computer Vision
-- 🌱 I’m currently learning Computer Vision,Data analysis
+ I'm Valentin BAJENEZA,
+ interested in AI and Computer Vision.
+ I’m currently learning Computer Vision and Data analysis
 
 
 <!---
