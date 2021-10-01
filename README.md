@@ -1,6 +1,6 @@
- I'm Valentin BAJENEZA,
- interested in AI and Computer Vision.
- I’m currently learning Computer Vision and Data analysis
+## Valentin BAJENEZA,
+### Main interest: AI and Computer Vision.
+
 
 
 <!---
