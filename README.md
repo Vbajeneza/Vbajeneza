@@ -1,4 +1,4 @@
-## Valentin BAJENEZA,
+# Valentin BAJENEZA,
 ### Main interest: AI and Computer Vision.
 
 
