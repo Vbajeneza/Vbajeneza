@@ -14,7 +14,7 @@ I build end-to-end AI vision systems — from the first conversation with a user
 
 **Data processing & annotation:** Building custom web-based annotation tools for labelling image datasets (polygon segmentation, bounding boxes), managing dataset versions, and ensuring label quality.
 
-**Model training & optimization:** Training YOLO-based detection and segmentation models (YOLOv8, YOLOv26), optimizing for accuracy/speed tradeoffs, exporting to ONNX for deployment, and validating on held-out test sets.
+**Model training & optimization:** Selecting, training, and fine-tuning deep learning models suited to the task — balancing accuracy, inference speed, and hardware constraints — then optimizing and validating them for reliable production deployment.
 
 **Deployment & integration:** Packaging models into GPU-accelerated desktop applications (PyQt5, PyInstaller) or web servers (Flask, Cloudflare tunnel), integrated with hardware I/O, session logging, and user-facing controls.
 
